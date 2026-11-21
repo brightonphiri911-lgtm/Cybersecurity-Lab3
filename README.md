@@ -1,50 +1,21 @@
-\# 🛡️ Network Reconnaissance \& Security Assessment Framework
+# Cyber Project
 
+## Repository Structure
 
+- `assets/` — Visual evidence and screenshots from testing and verification
+- `configs/` — Configuration files and environment templates
+- `reports/` — Assessment summaries and technical reports
+- `scripts/` — Hash records, reference keys/notes, and supporting scripts
 
-\[!\[License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+## Recent Updates
 
-\[!\[Status: Completed](https://img.shields.io/badge/Status-Completed-success.svg)]()
+### Scripts & Reference Files
+- `scripts/Keys_For_pdf_Doc.txt` — Added `2026-11-21` (PDF document keys/reference data)
+- `scripts/hash1.txt`, `scripts/hash2.txt`, `scripts/hash3.txt` — Added `2026-11-15` (hash values/outputs)
 
-\[!\[Platform: Linux / Kali](https://img.shields.io/badge/Platform-Kali%20Linux-orange.svg)]()
-
-
-
-\## 📌 Executive Overview
-
-This repository contains automated reconnaissance workflows, DNS enumeration outputs, and OSINT gathering scripts designed to evaluate external attack surfaces and map target infrastructure securely.
-
-
-
-\---
-
-
-
-\## 🛠️ Tech Stack \& Toolchain
-
-\* \*\*Operating Environment:\*\* Kali Linux / Ubuntu Server
-
-\* \*\*Reconnaissance Tools:\*\* `dnsrecon`, `theHarvester`, custom scripts
-
-\* \*\*Protocols \& Formats:\*\* DNS, HTTP/HTTPS, Markdown, JSON logs
-
-
-
-\---
-
-
-
-\## 📂 Repository Architecture
-
-
-
-```text
-
-├── assets/                  # Architecture diagrams and visual walkthroughs
-
-├── configs/                 # Configuration templates and environment setups
-
-├── reports/                 # Structured logs (DNS records, OSINT footprints)
-
-└── scripts/                 # Automation wrappers and execution tools
-
+### Assets & Screenshots (`2026-11-17`)
+- `assets/Hexstrike Server.png` — Hexstrike server overview
+- `assets/Hexstrike nmap Sc.png` — Hexstrike `nmap` scan output
+- `assets/Hexstrike Server Health Check.png` — Hexstrike server health check
+- `assets/Cluade Ai checking John Riper.png` — AI-assisted John the Ripper review/analysis
+- `assets/PDF1 Calculated hash.png` — Calculated hash verification for PDF1
