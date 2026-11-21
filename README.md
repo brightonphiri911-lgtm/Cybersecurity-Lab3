@@ -14,8 +14,18 @@
 - `scripts/hash1.txt`, `scripts/hash2.txt`, `scripts/hash3.txt` — Added `2026-11-15` (hash values/outputs)
 
 ### Assets & Screenshots (`2026-11-17`)
-- `assets/Hexstrike Server.png` — Hexstrike server overview
-- `assets/Hexstrike nmap Sc.png` — Hexstrike `nmap` scan output
-- `assets/Hexstrike Server Health Check.png` — Hexstrike server health check
-- `assets/Cluade Ai checking John Riper.png` — AI-assisted John the Ripper review/analysis
-- `assets/PDF1 Calculated hash.png` — Calculated hash verification for PDF1
+
+#### Hexstrike Server Overview
+![Hexstrike Server](assets/Hexstrike%20Server.png)
+
+#### Hexstrike Nmap Scan
+![Hexstrike nmap Scan](assets/Hexstrike%20nmap%20Sc.png)
+
+#### Hexstrike Server Health Check
+![Hexstrike Server Health Check](assets/Hexstrike%20Server%20Health%20Check.png)
+
+#### AI Checking John the Ripper
+![AI Checking John the Ripper](assets/Cluade%20Ai%20checking%20John%20Riper.png)
+
+#### PDF1 Calculated Hash
+![PDF1 Calculated Hash](assets/PDF1%20Calculated%20hash.png)
